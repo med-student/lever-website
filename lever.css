@@ -1,0 +1,138 @@
+
+hr {
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+    margin-top:100px;
+}
+
+.jumbotron {
+	background-image: url(images/brain.jpg);
+	background-size: cover;
+	background-position: center center;
+	
+	padding: 0 15px;
+	height: 450px;
+	filter: grayscale(0%);
+	font-family: "Lato";
+	text-transform: uppercase;
+	color: #404040;
+
+}
+
+.jumbotron h1 {
+	font-family: "Lato";
+	font-weight: 300;
+	padding-top: 200px;
+	margin: 0 0;
+	
+
+	}
+
+.jumbotron p {
+	font-weight: 400;
+	
+}
+
+.img-circle {
+	filter: grayscale(100%);
+}
+
+.headings {
+	/*padding-top: 200px;*/
+	padding-bottom: 40px;
+	text-transform: uppercase;
+	font-family: "Lato";
+	font-weight: 400;
+	text-align: center;
+	letter-spacing: 1px;
+}
+
+.pageText {
+	font-family: "Lato";
+	font-weight: 100;
+	text-align: center;
+	font-size: 17px;
+	letter-spacing: 1px;
+	line-height: 2;
+
+}
+
+.navbar-brand {
+	font-family: "Lato";
+	font-weight: "100";
+	font-size: 15px;
+	text-transform: uppercase;
+}
+
+.col-lg-2 {
+	padding: 30px;
+	width: 16.6%;
+	height: 265px;
+
+}
+
+.headings2 {
+	color: white;
+	padding-bottom: 0px;
+	font-size: 45px;
+	vertical-align: middle;
+
+}
+
+.img-circle {
+	border-radius: 50%;
+}
+
+.team_text {
+	color:white;
+	text-align: center;
+	font-family: "Lato";
+	padding-top: 2px;
+}
+
+.ulist {
+	text-align: left;
+}
+
+.awards-section {
+	padding-top: 100px;
+	padding-bottom: 100px;
+	padding-left: 75px;
+	padding-right: 75px;
+}
+
+
+#contact-background {
+
+	background-color: white;
+	margin: 30px 15px;
+	height: 370px;
+}
+
+#btn_learn {
+	background-color: #F1B82D;
+	border: 2px solid #F1B82D;
+}
+
+#team {
+	background-color: #F1B82D;
+	padding-top: 100px;
+	padding-bottom: 90px;
+}
+
+#about {
+	padding-top: 200px;
+	padding-bottom: 200px;
+	padding-left: 75px;
+	padding-right: 75px;
+}
+
+  #map {
+        height: 400px;
+        width: 100%;
+       }
+
+  #subheader {
+  		padding-bottom: 0;
+  }
